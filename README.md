@@ -1,4 +1,7 @@
-### Hi there 👋
+## Paweł Gmurczyk
+C++ Developer and student of University of Economics and Human Sciences
+
+
 
 <!--
 **pawelekg95/pawelekg95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
