@@ -1,5 +1,5 @@
 ## Paweł Gmurczyk
-I am a C++ developer and computer science student (BSc) at the University of Economics and Human Sciences in Warsaw. On a daily basis, I develop and maintain components written in C++ (mostly >= 17) for internal libraries and applications intended for Linux systems.
+I am a C++ developer and software architect. On a daily basis, I develop and maintain components written in C++ (mostly >= 17) for internal libraries and applications intended for Linux systems.
 
 
 <!--
